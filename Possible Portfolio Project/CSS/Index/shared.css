@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(104, 104, 104);
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: -20px;
+    margin-right: auto;
+    margin-left: auto;   
+}
+
+
+
+.wrap {
+    height: 100%;
+    width: 100%;
+    position: absolute; /* exact position we want*/
+    /* this ensures that the images stay in the 
+    container.*/
+    overflow: hidden; /* hides edges that go too far*/
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+
+#home {
+    background: url(../Images/Cow_\(Fleckvieh_breed\)_Oeschinensee_Slaunger_2009-07-07.jpg) no-repeat 50% 50%;
+    background-attachment: fixed; /* doesnt move*/
+    /* these do the older browser*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    background-size: cover;
+    width: 100%;
+    display: block;
+    height: auto;
+    padding-top: 350px; /* spacer before main title*/
+    padding-bottom: 500px;/* spacer after main logo*/
+    color: rgb(0, 0, 0);
+}
+
+.head-main {
+    text-shadow: 2px 4px 5px rgba(0, 0, 0, 0.9);
+    font-variant: small-caps;
+    color: black;
+    letter-spacing: 5pt;
+    word-spacing: 21pt;
+    font-size: 3.5em;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 2;
+    font-weight: 900;
+    border: 5px double black;
+    padding: 10px;
+}
+
+span {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+    font-weight: 900;
+    font-size: 1.5em;
+    font-variant: small-caps;
+    letter-spacing: .4pt;
+    word-spacing: .3pt;
+
+}
+
+
+
+
+
+
+   
+    
+
+
+ 
