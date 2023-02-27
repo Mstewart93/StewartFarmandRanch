@@ -1,0 +1,15 @@
+
+h1 , h2{
+    text-align: center;
+}
+
+.container-w {
+    background-color: rgb(72, 90, 69);
+    max-height: fit-content;
+    max-width: auto;
+
+}
+
+
+
+

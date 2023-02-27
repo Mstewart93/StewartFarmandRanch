@@ -1,5 +1,10 @@
+html,body,h1,h2,h3,h4,h5,h6 {
+ font-family: fantasy;
+}
+
 body {
     background-color: rgb(104, 104, 104);
+    
 }
 
 
@@ -52,7 +57,7 @@ body {
     word-spacing: 21pt;
     font-size: 3.5em;
     text-align: left;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: fantasy;
     line-height: 2;
     font-weight: 900;
     border: 5px double black;
@@ -69,6 +74,7 @@ span {
     font-variant: small-caps;
     letter-spacing: .4pt;
     word-spacing: .3pt;
+    font-family: fantasy;
 
 }
 

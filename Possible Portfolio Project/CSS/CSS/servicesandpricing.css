@@ -1,0 +1,15 @@
+#price {
+    background: url(../Images/catchicken.JPG) no-repeat 50% 50%;
+    background-attachment: fixed; /* doesnt move*/
+    /* these do the older browser*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    background-size: cover;
+    width: 100%;
+    display: block;
+    height: auto;
+    padding-top: 350px; /* spacer before main title*/
+    padding-bottom: 500px;/* spacer after main logo*/
+    color: rgb(0, 0, 0);
+}
