@@ -13,3 +13,11 @@
     padding-bottom: 500px;/* spacer after main logo*/
     color: rgb(0, 0, 0);
 }
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}

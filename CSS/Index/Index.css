@@ -6,7 +6,9 @@ h1 , h2{
 .container-w {
     background-color: rgb(72, 90, 69);
     max-height: fit-content;
-    max-width: auto;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 

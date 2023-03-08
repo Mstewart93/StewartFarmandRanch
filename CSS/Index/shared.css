@@ -3,7 +3,7 @@ html,body,h1,h2,h3,h4,h5,h6 {
 }
 
 body {
-    background-color: rgb(104, 104, 104);
+    background-color: rgb(72, 83, 72);
     
 }
 
@@ -80,7 +80,7 @@ span {
 
 footer {
     padding: 2%; /* This gives the footer padding that is equal to 2% of the width of the element's area */
-    background-color: #808080;}
+    background-color: background-color: rgb(72, 83, 72);;}
 
 
     img {
