@@ -5,7 +5,7 @@
     background-color: #333;
     position: fixed;
     top: 0px;
-    height: 50px;
+    height: 53px;
     width: 100%;
     z-index: 1;
     
@@ -38,9 +38,10 @@
 .dropbtn {
     background-color: #333;
     color: white;
-    padding: 16px;
+    padding: 14px; 
     font-size: 16px;
     border: none;
+    font-family: fantasy;
   }
 
   .dropbtn:hover {
@@ -59,7 +60,7 @@
     display: none;
     position: absolute;
     background-color: #f1f1f1;
-    min-width: 95px;
+    min-width: 90px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
     
@@ -68,7 +69,7 @@
   /* Links inside the dropdown */
   .dropdown-content a {
     color: black;
-    padding: 12px 16px;
+    padding: 10px 16px;
     text-decoration: none;
     display: block;
   }
